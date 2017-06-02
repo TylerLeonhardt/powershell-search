@@ -1,0 +1,15 @@
+{
+  "name": "powershell-search",
+  "version": "1.0.0",
+  "description": "An example using PowerShell modules of Autocomplete using Elastic Search",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "tylerleonhardt",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^13.0.1",
+    "express": "^4.15.3"
+  }
+}
